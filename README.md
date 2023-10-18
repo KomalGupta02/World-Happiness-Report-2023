@@ -14,7 +14,7 @@ The dataset is collected from kaggle.com .
 ## Project Workflow
 - <strong>Data Transformation</strong> - Headers were promoted and datatypes were corrected for numeric columns.
 - <strong>Data Processing</strong> - Used DAX to create various measures such as Average measures for all 6 variables and measures for custom color to be used in scatter plots.
-- <strong>Data Visualization</strong> - Developed a fully Interactive Dashboard with various visuals, including Column Charts, Cards, Waterfall Chart, etc
+- <strong>Data Visualization</strong> - Developed a fully Interactive Dashboard using various visuals, including Column Charts, Cards, Waterfall Chart, etc
 ## Key Insights
 - Finland has been ranked the happiest country scoring 7.8 points while Afghanistan has been ranked as the least 'happy' country in the world scoring 1.9 points.
 - The average global happiness for 2023 based on 137 countries stands at 5.54 points.
